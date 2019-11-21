@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574326079600.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3516657941",
+    "id" : "2FEE1E86",
+    "lastKnownWriteTime" : 1574326072,
+    "last_content_update" : 1574326072,
+    "path" : "~/projet1/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
